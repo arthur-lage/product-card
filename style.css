@@ -115,6 +115,11 @@ body {
   border: 0;
 }
 
+.card .product-info .add-to-cart svg {
+    width: 3rem;
+    color: var(--white);
+}
+
 .card .product-info .add-to-cart:hover {
   background-color: hsl(156, 42%, 18%);
 }
